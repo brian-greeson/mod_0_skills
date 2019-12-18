@@ -1,0 +1,94 @@
+## How to become a Turing student
+- 1 Submit online application
+  - 1.1 Goto apply.turing.io
+  - 1.2 Fill out application
+    - 1.2.1 Create Github account
+    - 1.2.2 Finish basic identity section
+    - 1.2.3 Finish work history section
+    - 1.2.4 Finish logic quiz section
+  - 1.3 Wait for email response from admissions staff
+- 2 Interview
+  - 2.1 Schedule time for interview
+  - 2.2 Attend interview
+    - 2.2.1 Setup video interview software
+      - 2.2.1.1 Navigate to zoom.com
+      - 2.2.1.2 Click on install link
+      - 2.2.1.3 Complete software installation
+    - 2.2.2 Answer interview question
+  - 2.3 Wait for acceptance response from admissions staff   
+- 3 Complete Mod 0
+  - 3.1 Perform computer setup pre-work
+    - 3.1.1 Become familiar with macOS
+    - 3.1.2 Install Atom as your Text Editor
+    - 3.1.3 Install Xcode-select
+    - 3.1.3 Install Homebrew
+    - 3.1.4 Install Git
+    - 3.1.5 Configure Git
+    - 3.1.6 Install Chrome
+    - 3.1.7 Set Up Terminal Access for Atom
+    - 3.1.7 Add GitHub SSH Keys
+  - 3.2 Attend session 1
+    - 3.2.1 Start zoom meeting
+    - 3.2.2 Listen to lecture
+    - 3.2.3 Take notes
+    - 3.2.4 Review notes after class
+    - 3.2.5 Complete homework before next session
+  - 3.3 Attend session 2
+    - 3.3.1 Start zoom meeting
+    - 3.3.2 Listen to lecture
+    - 3.3.3 Take notes
+    - 3.3.4 Review notes after class
+    - 3.3.5 Complete homework before next session
+  - 3.4 Attend session 3
+    - 3.4.1 Start zoom meeting
+    - 3.4.2 Listen to lecture
+    - 3.4.3 Take notes
+    - 3.4.4 Review notes after class
+    - 3.4.5 Complete homework before next session
+  - 3.5 Attend session 4
+    - 3.5.1 Start zoom meeting
+    - 3.5.2 Listen to lecture
+    - 3.5.3 Take notes
+    - 3.5.4 Review notes after class
+    - 3.5.5 Complete homework before next session
+  - 3.6 Attend session 5
+    - 3.6.1 Start zoom meeting
+    - 3.6.2 Listen to lecture
+    - 3.6.3 Take notes
+    - 3.6.4 Review notes after class
+    - 3.6.5 Complete homework before next session
+  - 3.7 Attend session 6
+    - 3.7.1 Start zoom meeting
+    - 3.7.2 Listen to lecture
+    - 3.7.3 Take notes
+    - 3.7.4 Review notes after class
+    - 3.7.5 Complete homework before next session
+  - 3.8 Complete mod 0 capstone project
+    - 3.8.1 Complete professional development section
+      - 3.8.1.1 Complete personal assignment
+      - 3.8.1.2 Complete Gear Up assignment
+    - 3.8.2 Complete Technical section
+      - 3.8.2.1 Complete Day 0
+        - 3.8.2.1.1 Navigate to the day 0 repo
+        - 3.8.2.2.2 Follow instructions
+      - 3.8.2.2 Complete Day 1
+        - 3.8.2.2.1 Navigate to the day 1 repo
+        - 3.8.2.2.2 Follow instructions
+      - 3.8.2.3 Complete Day 2
+        - 3.8.2.3.1 Navigate to the day 0 repo
+        - 3.8.2.3.2 Follow instructions
+      - 3.8.2.4 Complete Day 3
+        - 3.8.2.4.1 Navigate to the day 0 repo
+        - 3.8.2.4.1 Follow instructions
+      - 3.8.2.5 Complete Day 4
+        - 3.8.2.5.1 Navigate to the day 0 repo
+        - 3.8.2.5.2 Follow instructions
+      - 3.8.2.6 Complete Day 5
+        - 3.8.2.6.1 Navigate to the day 0 repo
+        - 3.8.2.6.1 Follow instructions
+      - 3.8.2.7 Complete Day 6
+        - 3.8.2.7.1 Navigate to the day 0 repo
+        - 3.8.2.7.1 Follow instructions
+      - 3.8.2.8 Complete Day 7
+        - 3.8.2.8.1 Navigate to the day 0 repo
+        - 3.8.2.8.1 Follow instructions
